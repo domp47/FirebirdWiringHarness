@@ -1,0 +1,58 @@
+- Tail lights - https://digi-tails.com/1979-81-pontiac-firebird-led-tail-light-panels
+    - Brown/ DK Greeen/ Yellow  from body harness & 12V Fused Connection & GND
+
+- Head lights
+    - https://www.oraclelights.com/products/oracle-pre-installed-4x6-sealed-beam-halo-amber-smd?_pos=2&_sid=6c6681623&_ss=r
+    - https://www.oraclelights.com/products/oracle-pre-installed-4x6-sealed-beam-halo-white-smd?_pos=5&_sid=6f786c263&_ss=r
+    - https://www.oraclelights.com/products/oracle-h4-s3-led-headlight-bulb-conversion-kit
+    - Hazard/ Left/ Right & Low/Hi beams
+    - flashers: https://www.memotronics.com/2-prong-electronic-led-compatible-turn-signal-flasher-relay-ef32rl-round-25-amp/
+
+- Wipers - https://raingearwipers.com/product/1970-1981-camaro-hidden-wiper-system/
+    - 12v fused for power
+
+- Key Switch
+    - Overrides the ignition & Starter
+
+- Switch Panel - https://www.summitracing.com/parts/prf-50202 https://mgispeedware.com/product/automotive-relay-panels/
+    - ignition, Starter, lights, highbeams, horn, water pump?
+
+- Starter/ Alternator
+    - https://www.holley.com/products/accessories/drive_brackets/components_and_service_parts/parts/197-400
+
+- Kill Switch - https://www.moroso.com/catalog/product/view/id/8487/s/battery-and-alternator-disconnect-switch74108/
+
+- Fuel Pump
+
+- Horn
+
+- Brake
+
+- Grounding Kit -  https://www.painlessperformance.com/wc/40140
+
+------------------
+Turn Signal Rear Scenario's
+
+None - Both Solid on Brake
+Left - Left Flashes & Right solid on brake
+Right - Right flashes & Left solid on brake
+Hazard - Both Flash & Both Solid on brake
+
+------------------
+
+Ignition Current
+
+0.105 A (Signals) + 4 A (Line Lock) + 0.01 A (Holley) + 0.05 (Alternator) + 0.2 A (Starter Relay)
+
+Relay Box
+
+1. Starter - 15 Amps
+2. Rad Fan - 12 Amps
+3. High Beams - 4 Amps
+4. Low Beams - 2 Amps
+5. Sw 12v - 15 Amps
+6. Water Pump - 7 Amps
+7. N/C - 
+8. Horn - 12 Amps
+
+125A 6 AWG Main
